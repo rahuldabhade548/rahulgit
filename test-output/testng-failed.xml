@@ -5,9 +5,9 @@
     <classes>
       <class name="test.Testcase_002">
         <methods>
-          <include name="BM"/>
+          <include name="tc_001"/>
           <include name="AM"/>
-          <include name="testcase_002"/>
+          <include name="BM"/>
         </methods>
       </class> <!-- test.Testcase_002 -->
     </classes>
